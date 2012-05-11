@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Cube_Demo/Cube_Demo</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>495</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Tool-Output/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log><TerminalIO/><Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12685-29453</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-8571-5605</Identity><TabName>Tool Output</TabName><Factory>Tool-Output</Factory><Session/></Tab><Tab><Identity>TabID-29023-5631</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-4503-3495</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23433-29456</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Cube_Demo</ExpandedNode><ExpandedNode>Cube_Demo/EWARM</ExpandedNode><ExpandedNode>Cube_Demo/Output</ExpandedNode><ExpandedNode>Cube_Demo/STM32F4-Discovery</ExpandedNode><ExpandedNode>Cube_Demo/STM32F4xx_StdPeriph_Driver</ExpandedNode><ExpandedNode>Cube_Demo/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Cube.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>138</SelStart><SelEnd>138</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Isr.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>291</SelStart><SelEnd>291</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Hardware.c</Filename><XPos>0</XPos><YPos>267</YPos><SelStart>8788</SelStart><SelEnd>8797</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Hardware.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>720</SelStart><SelEnd>720</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Isr.c</Filename><XPos>0</XPos><YPos>38</YPos><SelStart>934</SelStart><SelEnd>934</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>590</SelStart><SelEnd>590</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Cube.c</Filename><XPos>0</XPos><YPos>92</YPos><SelStart>2399</SelStart><SelEnd>2399</SelEnd></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\hardwareSPI.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>63</SelStart><SelEnd>79</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\discovery-hardware.h</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>3659</SelStart><SelEnd>3659</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02765560><key>iaridepm.enu1</key></Toolbar-02765560></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes><Toolbar-02798208><key>debuggergui.enu1</key></Toolbar-02798208></Sizes></Row2><Row3><Sizes><Toolbar-02798848><key>armstlink.enu1</key></Toolbar-02798848></Sizes></Row3></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>718</Bottom><Right>569</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>177305</sizeHorzCY><sizeVertCX>297396</sizeVertCX><sizeVertCY>638298</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>365</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>367</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>325355</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>177305</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
